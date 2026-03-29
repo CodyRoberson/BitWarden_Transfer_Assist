@@ -1,0 +1,54 @@
+{
+  "folders": [
+    {
+      "id": "8275d696-c76d-487e-893b-87a7ce70fd6c",
+      "name": "Imported"
+    }
+  ],
+  "items": [
+    {
+      "id": "f7a7cf4e-dd46-4748-8c59-1b3d11310bfd",
+      "organizationId": null,
+      "folderId": "8275d696-c76d-487e-893b-87a7ce70fd6c",
+      "type": 1,
+      "reprompt": 0,
+      "name": "MyFirstEntry",
+      "notes": "Notes on Notes on Notes",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://gmail.com"
+          }
+        ],
+        "username": "MyExampleUser",
+        "password": "SuperSecretPassword?!@@#$%^&*()_+=-",
+        "totp": "Brother, Brother why?"
+      },
+      "collectionIds": null
+    },
+    {
+      "id": "c1bce30e-2d19-41a1-9833-8a1ef34af8cb",
+      "organizationId": null,
+      "folderId": "8275d696-c76d-487e-893b-87a7ce70fd6c",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Item Two",
+      "notes": "sdfadfadfffdfdfdf",
+      "favorite": false,
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.MakePasswordsGreatAgain.net"
+          }
+        ],
+        "username": "ExampleUserName",
+        "password": "asdflkjasldfkj;laskjdfl",
+        "totp": "4ijoaiejf43qfnoiahjfaoij"
+      },
+      "collectionIds": null
+    }
+  ]
+}
