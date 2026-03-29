@@ -21,7 +21,7 @@ class GUI:
 
     def __init__(self, master):
         self.master = master
-        master.title("Shitwarden Migration Tool")
+        master.title("Bitwarden Migration Tool")
         master.geometry("850x675")
         master.grid_rowconfigure(0, weight=1)
         master.grid_columnconfigure(0, weight=1, minsize=280)
